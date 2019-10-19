@@ -1,0 +1,27 @@
+{
+  "name": "liquorlibrary_remake",
+  "version": "1.0.0",
+  "description": "This project aim to remake liquor library project with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunboJ/LiquorLibrary_remake.git"
+  },
+  "author": "James Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunboJ/LiquorLibrary_remake/issues"
+  },
+  "homepage": "https://github.com/JunboJ/LiquorLibrary_remake#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
